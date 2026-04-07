@@ -1,2 +1,2 @@
 # SOC Automation Script
-A personal SOC portfolio containing incident response notes, blue team playbooks, threat analysis reports, and lab practice projects.
+This repository contains PowerShell scripts for SOC workflows, case handling, and internal security operations automation.
